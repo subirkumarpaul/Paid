@@ -222,9 +222,9 @@ https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@N
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/News%2024.png"group-title="Bangla News",News 24
-https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
+#https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@dailynews24x7daily
-http://cdn01.palki.tv/live/News24-M/index.m3u8
+#http://cdn01.palki.tv/live/News24-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="Bangla News",DBC News
 #https://himel-op.top/api/ytop.m3u8?id=Sh66Zurop2U
@@ -250,7 +250,7 @@ https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 
 
 #EXTINF:-1 group-title="Bangla Music",24/7 Bangla Music
-http://starshare.live:8080/live/Sylvia/Sylvia/136502.ts
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gaan%20Bangla.png"group-title="Bangla Music",Gaan Bangla
 #https://livess.ncare.live/live-orgin/gaanbangla-8-orgd.stream/playlist.m3u8
@@ -339,14 +339,13 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/245897.m3u8
 http://watchindia.net:8880/live/65181/26572/2287.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Kolkata Bangla Movies",Colors Bangla Cinema
-
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Bangla_Cinema_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla Movies",Sun Bangla Cinema
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 
 #EXTINF:-1,Sananda TV
-https://fr.tvanondo.online/sananda/video.m3u8
+#https://fr.tvanondo.online/sananda/video.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Tara Bangla Cinema
 
