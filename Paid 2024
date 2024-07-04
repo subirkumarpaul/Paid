@@ -590,8 +590,10 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #http://195.26.87.217/live.ts?channelId=30298&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines
-#https://pos.bongohub.pw/mac.m3u8?id=11064
-http://xtv.ooo:8080/live/865@moiz/2015486520/112972.m3u8
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnJ76NXVguGHVd3tedWQh9R2
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines Movies
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSgyGZ6mvYrKZkLH-Hd_sEEb
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Hindi Movies",Manoranjan Movies
 http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
