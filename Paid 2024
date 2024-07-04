@@ -192,53 +192,59 @@ https://livess.ncare.live/live-orgin/chsukoff.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Duronto%20TV.jpeg"group-title="KIDS",Duronto TV
 http://cdn01.palki.tv/live/Duronto-M/index.m3u8
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=239079
-#https://freeiptv25.netlify.app/live/bdix/app/Duronto.m3u8
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP1Dmh46ImfIFbknAnkE0jpU
 
 #EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png"group-title="KIDS",Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Bangla News",Somoy TV
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSh2_uxWD4pFeOu9yBmPAy0t
 #http://cdn01.palki.tv/live/SomoyTV-M/index.m3u8
-#https://freeiptv25.netlify.app/live/bdix/app/Somoytv.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Bangla News",Independent TV
 https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP1TQ77iv0XQFvhe-j4MyrUo
 #http://cdn01.palki.tv/live/Independent-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="Bangla News",Ekattor TV
 http://cdn01.palki.tv:80/live/EkattorTV-M/tracks-v1a1/mono.m3u8
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP0sba-znxth7xToVCduRuId
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png"group-title="Bangla News",ATN News
 http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8
 #https://himel-op.top/api/ytop.m3u8?id=c67_sK-EU1g
 #https://livess.ncare.live/live-orgin/atnws-sg.stream/chunks.m3u8
-#http://114.130.96.165:8080/1136/tracks-v1a1/index.m3u8
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP0szTlbj9aflKCUpcVdmw0H
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg"group-title="Bangla News",Jamuna TV
 #https://himel-op.top/api/ytop.m3u8?id=c67_sK-EU1g
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSiSh1cVtrfhsGhlEbFnIhrG
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #http://cdn01.palki.tv/live/JamunaTV-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png"group-title="Bangla News",Channel 24
 #http://cdn01.palki.tv/live/Channel24-M/index.m3u8
 https://himel-op.top/api/ytop.m3u8?id=SOUt2eeU4ig
-https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@NTVDigitalLive
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYervaywCkMX5sUXkBEv2v4xwotwDXwRpob1rgCcu77XkBE
+#https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+#https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@NTVDigitalLive
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/News%2024.png"group-title="Bangla News",News 24
 #https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYervaywCkMX5sUgVW6v2v4xwqlPIPe5PeVqJKKXDTEcZ20
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@dailynews24x7daily
 #http://cdn01.palki.tv/live/News24-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="Bangla News",DBC News
 #https://himel-op.top/api/ytop.m3u8?id=Sh66Zurop2U
 https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
-#https://bongohub.pw/bioscope.php?cc=dbc-news
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYervaywCkMX5sUgVW6v2v4xwrv1E9toxOjRlWv9lIqmVA7
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="Bangla News",Ekhone TV
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
