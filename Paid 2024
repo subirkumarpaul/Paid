@@ -307,9 +307,9 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="Kolkata Bangla",Sony Aath
 http://xtv.ooo:8080/live/865@moiz/2015486520/245989.m3u8
-http://live02.keycdn.cc/SonyAath/index.m3u8?token=503854bd376830800c7ef7aec81d611c
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnJJROB8OloZ2XO_E-wb9gY2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="Kolkata Bangla",Sony Aath
-https://toxicify.pro/sliv/stream.php?id=sony-aath&e=.m3u8
+
 
 
 
@@ -339,7 +339,7 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/245895.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla",Sun Bangla
-#http://148.113.5.31:8106/play/a00z/index.m3u8
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnKANuzYuBV9hq6xYHGQ_AeM
 http://xtv.ooo:8080/live/865@moiz/2015486520/245906.m3u8
 
 
@@ -358,11 +358,11 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="Kolkata Bangla Movies",Jalsha Movies HD
 http://xtv.ooo:8080/live/865@moiz/2015486520/245900.m3u8
-http://watchindia.net:8880/live/65181/26572/2282.m3u8
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP2DXU2kxTtvTO49T6zHbWDo
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Kolkata Bangla Movies",Zee Bangla Cinema
 http://xtv.ooo:8080/live/865@moiz/2015486520/245897.m3u8
-http://watchindia.net:8880/live/65181/26572/2287.m3u8
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYervaywCkMX5sUgVW6v2v4xwqVmTvXDShhBH1Q6VQ9PqcR
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Kolkata Bangla Movies",Colors Bangla Cinema
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Bangla_Cinema_MOB/Fallback/index.m3u8
