@@ -528,12 +528,12 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=196
 http://xtv.ooo:8080/live/865@moiz/2015486520/106133.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Thrills
-http://xtv.ooo:8080/live/Minsa786/Fatima/221258.m3u8
-
+http://xtv.ooo:8080/live/865@moiz/2015486520/221258.m3u8
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnK6z9P-rftESs4Av4aU6DWI
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Romance
 http://xtv.ooo:8080/live/865@moiz/2015486520/66186.m3u8
-http://xtv.ooo:8080/live/Minsa786/Fatima/66186.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg"group-title="Hindi Movies",Star Gold Select
@@ -548,6 +548,7 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/206315.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex HD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_HD_MOB/Fallback/index.m3u8
 http://xtv.ooo:8080/live/865@moiz/2015486520/206315.m3u8
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_iqe15R2FOQJtjO4HpqfhTy
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex Bollywood
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
